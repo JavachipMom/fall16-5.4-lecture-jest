@@ -1,8 +1,8 @@
 import React from 'react'
 import { render } from 'react-dom'
-import Main from './main'
+import Tweet from './Tweet'
 
 render(
-  ( <Main /> ),
+  ( <Tweet /> ),
   document.getElementById('app')
 )
